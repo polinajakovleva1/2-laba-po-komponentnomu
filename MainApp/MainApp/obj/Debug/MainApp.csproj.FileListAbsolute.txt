@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\PluginInterface.exe
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\MainApp\MainApp\bin\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.PluginDemoApp.resources
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.PluginInfo.resources
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\User\source\repos\MainApp\MainApp\obj\Debug\MainApp.pdb

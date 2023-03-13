@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\bin\Debug\PluginInterface.exe
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\bin\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\MainApp\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
