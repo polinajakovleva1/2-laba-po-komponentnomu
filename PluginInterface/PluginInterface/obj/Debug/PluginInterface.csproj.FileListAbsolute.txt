@@ -1,0 +1,17 @@
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\bin\Debug\PluginInterface.exe.config
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\bin\Debug\PluginInterface.exe
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\bin\Debug\System.Drawing.Common.dll
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\obj\Debug\PluginInterface.csproj.CopyComplete
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\obj\Debug\PluginInterface.exe
+D:\Desktop\ПМИ\3 курс\Компонентное программирование\lab3\PluginInterface\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\PluginInterface\PluginInterface\bin\Debug\PluginInterface.exe.config
+C:\Users\User\source\repos\PluginInterface\PluginInterface\bin\Debug\PluginInterface.exe
+C:\Users\User\source\repos\PluginInterface\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\User\source\repos\PluginInterface\PluginInterface\bin\Debug\System.Drawing.Common.dll
+C:\Users\User\source\repos\PluginInterface\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PluginInterface\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PluginInterface\PluginInterface\obj\Debug\PluginInterface.csproj.CopyComplete
+C:\Users\User\source\repos\PluginInterface\PluginInterface\obj\Debug\PluginInterface.exe
+C:\Users\User\source\repos\PluginInterface\PluginInterface\obj\Debug\PluginInterface.pdb
